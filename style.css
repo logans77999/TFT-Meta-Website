@@ -1,0 +1,64 @@
+.container {
+    padding: 15px;
+    height: 200vh;
+    display: grid;
+    gap: 1rem;
+}
+
+.S-tier { 
+    font-size: 30px;
+    color: #F58D17;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #508C9B;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 3%;
+    border-radius: 15px;
+    text-shadow: black 2px 2px 2px;
+    font-weight: bold;
+    border: black 3px solid;
+  }
+
+.A-tier {
+    font-size: 30px;
+    color:  #FD9646;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #508C9B;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 3%;
+    border-radius: 15px;
+    text-shadow: black 2px 2px 2px;
+    font-weight: bold;
+    border: black 3px solid;
+}
+
+.B-tier {
+    font-size: 30px;
+    color: #FDC046;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #508C9B;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 3%;
+    border-radius: 15px;
+    text-shadow: black 2px 2px 2px;
+    font-weight: bold;
+    border: black 3px solid;
+}
+
+.items-container {
+    background-color: #3D81AF;
+}
+
+.item-name {
+    
+}
+
+body {
+    background-color: #201E43;
+}
+
